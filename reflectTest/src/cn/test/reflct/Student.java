@@ -1,5 +1,5 @@
 package cn.test.reflct;
-
+//学生类
 public class Student implements Person{
     private String name;
     private int id;
